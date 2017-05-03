@@ -1,0 +1,7 @@
+.product{
+  float: left;
+  width: 70%;
+  height: 100px;
+  background-color: indianred;
+  box-sizing: border-box;
+}
